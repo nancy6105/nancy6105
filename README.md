@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nancy6105
+- 👋 Hi, I’m @nancy
 - 👀 I’m interested in learning 
 - 🌱 I’m currently learning data structure and algorithm
 - 💞️ I’m looking to collaborate on any type of competition or tournament to work together
