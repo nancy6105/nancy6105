@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning 
 - 🌱 I’m currently learning data structure and algorithm
 - 💞️ I’m looking to collaborate on any type of competition or tournament to work together
-- 📫 How to reach me nancylodhi6105@gmail
+- 📫 How to reach me nancylodhi6105@gmail.com
 - 😄 Pronouns: grace
 - ⚡ Fun fact: i am lazy
 
