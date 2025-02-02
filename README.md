@@ -21,7 +21,7 @@ I'm a passionate coder who started my journey in 2021 with Python. Currently, I'
 - **Front-End:** HTML, CSS, JavaScript (and exploring modern frameworks)
 - **Other Tools:** Git, GitHub, and more to come!
 
-## My GitHub Stats
+<!--## My GitHub Stats
 
 ![Nancy's GitHub stats](https://github-readme-stats.vercel.app/api?username=nancy&show_icons=true&theme=radical)
 
